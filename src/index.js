@@ -17,7 +17,7 @@ async function example() {
     };
 
     libs.request(options, (err, res, body) => {
-        /* see the uploaded headers */
+        /* see the headers */
         console.log(res.req['_header']);
     });
 };
