@@ -1,0 +1,13 @@
+{
+  "name": "simplify-header",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src ."
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
